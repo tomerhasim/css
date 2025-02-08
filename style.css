@@ -126,4 +126,7 @@ margin-top: 35px;
   .songitem {
     font-size: 13px;
   }
+ .songlist h1 {
+     font-size: 4px;
+ }
 }
