@@ -113,9 +113,6 @@ margin-top: 35px;
 }
 
 @media only screen and (max-width: 505px) {
-    body {
-      background-color: red;
-  }
   .icon {
     margin-top: 10px;
 
